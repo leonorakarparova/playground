@@ -1,3 +1,7 @@
 # playground
 
 change 1
+
+Bug fix 1
+
+Bug fix 2
